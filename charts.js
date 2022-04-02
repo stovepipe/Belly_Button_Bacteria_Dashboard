@@ -104,7 +104,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: -0.25,
         yanchor: 'center',
-        text: 'Top 10 bacterial species (OTUs) found in the belly button of the test subject',
+        text: 'The bar chart displays up to 10 of the bacterial species<br>with the highest occurrences in the sample',
         showarrow: false
       }]
     };
@@ -185,7 +185,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "Belly button washing frequency per week",
+        text: "Researchers studied 60 belly buttons and found<br>almost 2,400 different species of bacteria.",
         showarrow: false
       }]
     };
