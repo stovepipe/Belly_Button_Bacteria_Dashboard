@@ -7,6 +7,12 @@
 # BlueJ files
 *.ctxt
 
+# Class files
+line_chart.js
+bar_chart.js
+pie_chart.js
+map.js
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
