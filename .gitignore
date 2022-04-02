@@ -13,6 +13,8 @@ bar_chart.js
 pie_chart.js
 map.js
 
+.DS_Store
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
