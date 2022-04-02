@@ -104,7 +104,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: -0.25,
         yanchor: 'center',
-        text: 'Top 10 bacterial species (OTUs) found in belly buttons',
+        text: 'Top 10 bacterial species (OTUs) found in the belly button of the test subject',
         showarrow: false
       }]
     };
